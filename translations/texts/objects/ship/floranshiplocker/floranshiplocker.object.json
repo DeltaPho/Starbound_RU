@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A storage system. Definitely not of Floran origin."
+      "Eng": "A storage system. Definitely not of Floran origin.",
+      "Rus": "Система хранения. Точно не Флораны делали."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran sstore many usseful thingss in here for exploring universse."
+      "Eng": "Floran sstore many usseful thingss in here for exploring universse.",
+      "Rus": "Магазин Флоран, тут много полезных вещщей для исследования вссселенной!"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "How did the Floran obtain this technology?"
+      "Eng": "How did the Floran obtain this technology?",
+      "Rus": "Как Флоране получили эту технологию?"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Most of the tech on this ship doesn't appear to be Floran in origin."
+      "Eng": "Most of the tech on this ship doesn't appear to be Floran in origin.",
+      "Rus": "Большую часть технологий на этом корабле создали не Флоране."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Storage locker. I don't believe the Floran made this unit."
+      "Eng": "Storage locker. I don't believe the Floran made this unit.",
+      "Rus": "Шкафчик для хранения. Не верится, что Флоране делали это устройство."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This storage system is not of Floran origin. The Floran have acquired this technology by some other means."
+      "Eng": "This storage system is not of Floran origin. The Floran have acquired this technology by some other means.",
+      "Rus": "Эта система хранения была сделана не Флоранами. Они приобрели её другим способом."
     }
   }
 ]
