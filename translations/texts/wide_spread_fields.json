@@ -321,7 +321,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Чуждый",
+      "Чужой"
+    ],
     "Files": {
       "biomes/surface/alien.biome": [
         "/friendlyName"
@@ -353,7 +356,7 @@
   {
     "DeniedAlternatives": [
       "Астероидное поле",
-      "Пояс астероидов "
+      "Поле астероидов "
     ],
     "Files": {
       "biomes/surface/asteroidfield.biome": [
@@ -365,7 +368,7 @@
     },
     "Texts": {
       "Eng": "Asteroid Field",
-      "Rus": "Поле астероидов"
+      "Rus": "Пояс астероидов"
     }
   },
   {
@@ -635,7 +638,7 @@
     },
     "Texts": {
       "Eng": "Dr. Akaggy",
-      "Rus": "Доктор Акаги"
+      "Rus": "Доктор Акагги"
     }
   },
   {
