@@ -26,7 +26,7 @@
     },
     "Texts": {
       "Eng": "A broken FTL fuel hatch. This won't do!",
-      "Rus": ""
+      "Rus": "Сломанный топливный бак. Он не работает!"
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "A fuel hatch. I can fill this up and explore.",
-      "Rus": ""
+      "Rus": "Топливный бак. Я могу заполнить его и исследовать."
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "Broken FTL Fuel Hatch",
-      "Rus": ""
+      "Rus": "Сломанный топливный бак"
     }
   },
   {
@@ -146,7 +146,7 @@
     },
     "Texts": {
       "Eng": "Converts fuel into freedom.",
-      "Rus": ""
+      "Rus": "Перерабатывает топливо."
     }
   },
   {
@@ -206,7 +206,7 @@
     },
     "Texts": {
       "Eng": "FTL fuel goes in here!",
-      "Rus": ""
+      "Rus": "Горючка попадает сюды!"
     }
   },
   {
@@ -236,7 +236,7 @@
     },
     "Texts": {
       "Eng": "FTL fuel goes in here! When it's fixed...",
-      "Rus": ""
+      "Rus": "Горючка сюда течь будет! Когда бак починят..."
     }
   },
   {
@@ -266,7 +266,7 @@
     },
     "Texts": {
       "Eng": "Fuel hatch for FTL drive. Let'ss fill it up!",
-      "Rus": ""
+      "Rus": "Топливный бак. Заливай!"
     }
   },
   {
@@ -296,7 +296,7 @@
     },
     "Texts": {
       "Eng": "Fuel is the lifeblood of exploration.",
-      "Rus": ""
+      "Rus": "Топливо является жизненной силой исследований."
     }
   },
   {
@@ -326,7 +326,7 @@
     },
     "Texts": {
       "Eng": "Let's load it up and take to the stars!",
-      "Rus": ""
+      "Rus": "Давайте заправимся и отправимся к звёздам!"
     }
   },
   {
@@ -356,7 +356,7 @@
     },
     "Texts": {
       "Eng": "Let'ss get going!",
-      "Rus": ""
+      "Rus": "Поехали!"
     }
   },
   {
@@ -386,7 +386,7 @@
     },
     "Texts": {
       "Eng": "Once filled, we may visit another planet.",
-      "Rus": ""
+      "Rus": "После заправки мы можем посетить другую планету."
     }
   },
   {
@@ -416,7 +416,7 @@
     },
     "Texts": {
       "Eng": "The FTL drive fuel hatch. Converts fuel into freedom.",
-      "Rus": ""
+      "Rus": "Топливный бак. Перерабатывает топливо."
     }
   },
   {
@@ -446,7 +446,7 @@
     },
     "Texts": {
       "Eng": "The FTL fuel hatch. Let's load it up and take to the stars!",
-      "Rus": ""
+      "Rus": "Топливный бак. Давайте заправимся и отправимся к звёздам!"
     }
   },
   {
@@ -476,7 +476,7 @@
     },
     "Texts": {
       "Eng": "The humble FTL fuel hatch. Fuel is the lifeblood of exploration.",
-      "Rus": ""
+      "Rus": "Простой топливный бак. Топливо является жизненной силой исследований."
     }
   },
   {
@@ -506,7 +506,7 @@
     },
     "Texts": {
       "Eng": "The ship's fuel hatch. With fuel for the FTL drive I can explore outside this system.",
-      "Rus": ""
+      "Rus": "Топливный бак. С топливом для гипердвигателей я смогу путешествовать за пределами этой солнечной системы."
     }
   },
   {
@@ -536,7 +536,7 @@
     },
     "Texts": {
       "Eng": "This hatch fuels the FTL drive so that I may visit planets outside of this system.",
-      "Rus": ""
+      "Rus": "Это бак для топлива, я могу посетить планеты  не только в этой системе."
     }
   }
 ]
