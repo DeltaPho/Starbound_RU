@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": " Develop specialised technologies"
+      "Eng": " Develop specialised technologies",
+      "Rus": "Разработка специализированных технологий"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": " Research Station"
+      "Eng": " Research Station",
+      "Rus": "Исследовательская станция"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A research table."
+      "Eng": "A research table.",
+      "Rus": "Исследовательский стол."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Can be used to develop highly specialized equipment."
+      "Eng": "Can be used to develop highly specialized equipment.",
+      "Rus": "Может быть использован для создания узкоспециализированного оборудования."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran can create ssspecialised thingsss."
+      "Eng": "Floran can create ssspecialised thingsss.",
+      "Rus": "Флоран ссоздаёт ссспециальные шшштуки."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I can craft specialised items here!"
+      "Eng": "I can craft specialised items here!",
+      "Rus": "Я могу сделать здесь специализированные предметы!"
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I can create all kinda specialised things here!"
+      "Eng": "I can create all kinda specialised things here!",
+      "Rus": "Тут я могу специализированные вещи склепать!"
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I can create specialised stations and devices with this."
+      "Eng": "I can create specialised stations and devices with this.",
+      "Rus": "С этим я смогу создать специализированные станции и устройства."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This table is well-suited to the research and development of new items."
+      "Eng": "This table is well-suited to the research and development of new items.",
+      "Rus": "Этот стол хорошо подойдёт для исследования и разработки новых товаров."
     }
   },
   {
@@ -106,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This table seems well equipped for the development of new technologies."
+      "Eng": "This table seems well equipped for the development of new technologies.",
+      "Rus": "Этот стол, кажется, хорошо оборудован для оборудования и развития новых технологий."
     }
   },
   {
@@ -117,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Research Station^white;"
+      "Eng": "^orange;Research Station^white;",
+      "Rus": ""
     }
   }
 ]
