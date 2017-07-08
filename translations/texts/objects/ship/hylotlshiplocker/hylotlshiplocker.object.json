@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A locker. Pretty easy to break into!"
+      "Eng": "A locker. Pretty easy to break into!",
+      "Rus": "Шкафчик. Его не сложно взломать!"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A secure locker. Only the most cunning of thieves could break in."
+      "Eng": "A secure locker. Only the most cunning of thieves could break in.",
+      "Rus": "Запирающийся шкафчик. Только самые хитрые воры могут его взломать."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Even a Floran could break into this simple locker."
+      "Eng": "Even a Floran could break into this simple locker.",
+      "Rus": "Даже Флоран может взломать этот простой шкафчик."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran ssstruggle to break into locker, but manage eventually."
+      "Eng": "Floran ssstruggle to break into locker, but manage eventually.",
+      "Rus": "Флоран пытался взломать шкафчик и сссмог в конце концов."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I don't know why the Hylotl have even bothered to lock this storage compartment. Anyone could easily break in."
+      "Eng": "I don't know why the Hylotl have even bothered to lock this storage compartment. Anyone could easily break in.",
+      "Rus": "Я не знаю, почему Хилотлы даже не попытались запереть этот отсек. Любой мог в него проникнуть."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Hylotl haven't exactly designed this locker with security in mind."
+      "Eng": "The Hylotl haven't exactly designed this locker with security in mind.",
+      "Rus": "Хилотлы даже не задумывались о шкафчиках с замками."
     }
   }
 ]
