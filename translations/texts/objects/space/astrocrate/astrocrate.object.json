@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A large container specialized for space transport."
+      "Eng": "A large container specialized for space transport.",
+      "Rus": "Большой контейнер, специализированный под космический транспорт."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A large shipping container, made for goods transport."
+      "Eng": "A large shipping container, made for goods transport.",
+      "Rus": "Большой контейнер для перевозки грузов."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A standard space shipping crate."
+      "Eng": "A standard space shipping crate.",
+      "Rus": "Стандартный ящик для перевозки."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An oversized shipping crate, this can store a lot inside."
+      "Eng": "An oversized shipping crate, this can store a lot inside.",
+      "Rus": "Крупный контейнер для транспортировки, в нём много места."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Astro Crate"
+      "Eng": "Astro Crate",
+      "Rus": "Астро Контейнер"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Big ssstriped metal box."
+      "Eng": "Big ssstriped metal box.",
+      "Rus": "Большшшая полосатая металичесская коробка."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'd reckon you could store near anything this big ol' crate."
+      "Eng": "I'd reckon you could store near anything this big ol' crate.",
+      "Rus": "Думаю, в этом древнем контейнере можно шо угодно хранить."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The metals used in this crate makes it strong, but quite light."
+      "Eng": "The metals used in this crate makes it strong, but quite light.",
+      "Rus": "Металлы, из которых сделан этот ящик, делают его прочным и в то же время лёгким."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This container is large, but that means lots of space to store things inside."
+      "Eng": "This container is large, but that means lots of space to store things inside.",
+      "Rus": "Этот контейнер большой, а значит в нём много места для хранения предметов."
     }
   }
 ]
