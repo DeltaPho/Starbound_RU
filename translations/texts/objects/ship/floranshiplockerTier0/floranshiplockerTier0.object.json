@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A broken storage system. Definitely not of Floran origin."
+      "Eng": "A broken storage system. Definitely not of Floran origin.",
+      "Rus": "Сломанная система хранения. Точно не Флораны делали."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Broken storage locker. I don't believe the Floran made this unit."
+      "Eng": "Broken storage locker. I don't believe the Floran made this unit.",
+      "Rus": "Сломанный шкафик. Не верится, что Фроланы сделали это устройство."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran sstore many usseful thingss in here for exploring universse, when it isss fixed."
+      "Eng": "Floran sstore many usseful thingss in here for exploring universse, when it isss fixed.",
+      "Rus": "Сссклад с множеством шшштук для иссследования всселенной, но не сейчассс."
     }
   }
 ]
