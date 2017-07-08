@@ -126,7 +126,7 @@
     },
     "Texts": {
       "Eng": "Annie",
-      "Rus": "Анни"
+      "Rus": "Энни"
     }
   },
   {
@@ -581,7 +581,7 @@
     },
     "Texts": {
       "Eng": "Gem",
-      "Rus": ""
+      "Rus": "Гим"
     }
   },
   {
@@ -1322,7 +1322,7 @@
     },
     "Texts": {
       "Eng": "Neske",
-      "Rus": ""
+      "Rus": "Ниск"
     }
   },
   {
@@ -1374,7 +1374,7 @@
     },
     "Texts": {
       "Eng": "Peony",
-      "Rus": ""
+      "Rus": "Пиони"
     }
   },
   {
@@ -1517,7 +1517,7 @@
     },
     "Texts": {
       "Eng": "Samara",
-      "Rus": ""
+      "Rus": "Сэмара"
     }
   },
   {
@@ -1561,7 +1561,9 @@
   },
   {
     "Comment": "Имена персонажей",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Так одну из валькирий звали, есть что."
+    ],
     "Files": {
       "species/humanfemalenamegen.config": [
         "/names/1/1/163"
@@ -1569,7 +1571,7 @@
     },
     "Texts": {
       "Eng": "Sigrun",
-      "Rus": ""
+      "Rus": "Сигрун"
     }
   },
   {
@@ -1595,7 +1597,7 @@
     },
     "Texts": {
       "Eng": "Sitara",
-      "Rus": ""
+      "Rus": "Сайтара"
     }
   },
   {
@@ -1608,7 +1610,7 @@
     },
     "Texts": {
       "Eng": "Suri",
-      "Rus": ""
+      "Rus": "Соури"
     }
   },
   {
@@ -1621,7 +1623,7 @@
     },
     "Texts": {
       "Eng": "Suzette",
-      "Rus": ""
+      "Rus": "Сьюзитт"
     }
   },
   {
@@ -1659,7 +1661,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Telma"
+      "Eng": "Telma",
+      "Rus": "Тельма"
     }
   },
   {
@@ -1671,7 +1674,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thyra"
+      "Eng": "Thyra",
+      "Rus": "Зайра"
     }
   },
   {
@@ -1748,7 +1752,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Zaray"
+      "Eng": "Zaray",
+      "Rus": "Зерей"
     }
   },
   {
