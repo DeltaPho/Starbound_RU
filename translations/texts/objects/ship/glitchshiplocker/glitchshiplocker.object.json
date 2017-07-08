@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A Glitch storage unit."
+      "Eng": "A Glitch storage unit.",
+      "Rus": "Устройство для хранения."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A good Glitch storage locker."
+      "Eng": "A good Glitch storage locker.",
+      "Rus": "Неплохой шкафчик."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A good spot to store valuables."
+      "Eng": "A good spot to store valuables.",
+      "Rus": "Хорошее место для хранения драгоценностей."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An old Hylotl saying comes to mind \"Never forget where you stored your valuables.\""
+      "Eng": "An old Hylotl saying comes to mind \"Never forget where you stored your valuables.\"",
+      "Rus": "Старая поговорка Хилотлов пришла на ум \"Никогда не забывайте, где вы храните свои драгоценности.\""
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Glitch sstore goodiess in here."
+      "Eng": "Glitch sstore goodiess in here.",
+      "Rus": "Ссклад со вкусняшшшками."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The ship's storage locker."
+      "Eng": "The ship's storage locker.",
+      "Rus": "Корабельный шкафчик."
     }
   }
 ]
