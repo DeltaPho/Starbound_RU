@@ -25,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran fix thisss panel to wake ship up!"
+      "Eng": "Floran fix thisss panel to wake ship up!",
+      "Rus": "Флоран починил эту панель и разбудил корабль!"
     }
   },
   {
@@ -54,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I first need to reboot this station to communicate with SAIL."
+      "Eng": "I first need to reboot this station to communicate with SAIL.",
+      "Rus": "Сначала мне нужно перезагрузить систему, чтобы поговорить с КЭПом."
     }
   },
   {
@@ -83,7 +85,8 @@
       ]
     },
     "Texts": {
-      "Eng": "If I can reboot this station SAIL should come back online!"
+      "Eng": "If I can reboot this station SAIL should come back online!",
+      "Rus": "Если я смогу перезагрузить эту станцию, КЭП должен появиться онлайн!"
     }
   },
   {
@@ -112,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Rebooting this station should enable me to talk to SAIL."
+      "Eng": "Rebooting this station should enable me to talk to SAIL.",
+      "Rus": "Перезагрузка этой станции даст мне поговорить с КЭПом."
     }
   },
   {
@@ -141,7 +145,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This console will allow me to communicate with SAIL. I need to reboot it first."
+      "Eng": "This console will allow me to communicate with SAIL. I need to reboot it first.",
+      "Rus": "Эта консоль даст мне поговорить с КЭПом. Мне нужно сначала её перезагрузить."
     }
   },
   {
@@ -170,7 +175,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Time to reboot this station so I can talk to SAIL."
+      "Eng": "Time to reboot this station so I can talk to SAIL.",
+      "Rus": "Время для перезагрузки станции, ибо мне с КЭПом поговорить надо."
     }
   },
   {
@@ -199,7 +205,8 @@
       ]
     },
     "Texts": {
-      "Eng": "When it's working, I can talk to SAIL through this console."
+      "Eng": "When it's working, I can talk to SAIL through this console.",
+      "Rus": "Когда это заработает, я смогу поговорить с КЭПом через эту консоль."
     }
   }
 ]
