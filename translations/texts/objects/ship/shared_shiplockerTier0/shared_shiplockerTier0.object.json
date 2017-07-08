@@ -16,7 +16,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A device that holds many items for safe keeping. It's broken at the moment."
+      "Eng": "A device that holds many items for safe keeping. It's broken at the moment.",
+      "Rus": "Устройство с множеством слотов для хранения. В данный момент оно не работает."
     }
   },
   {
@@ -42,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A locker. Ain't much use 'til it's fixed."
+      "Eng": "A locker. Ain't much use 'til it's fixed.",
+      "Rus": "Шкафчик. Пользы - ноль, покаместь не починят."
     }
   },
   {
@@ -65,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A storage locker. It doesn't seem to be working."
+      "Eng": "A storage locker. It doesn't seem to be working.",
+      "Rus": "Шкафчик для хранения. Не вижу, чтобы он работал."
     }
   },
   {
@@ -85,7 +88,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An elegant storage solution. It's not currently powered."
+      "Eng": "An elegant storage solution. It's not currently powered.",
+      "Rus": "Стильный шкафчик. В данное время он сломан."
     }
   },
   {
@@ -102,7 +106,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sssstorage. It'sss not working."
+      "Eng": "Sssstorage. It'sss not working.",
+      "Rus": ""
     }
   },
   {
@@ -116,7 +121,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ssstorage. It'sss not working."
+      "Eng": "Ssstorage. It'sss not working.",
+      "Rus": "Хранилищщщще. И не работает."
     }
   },
   {
@@ -136,7 +142,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The ship's storage system. It's not currently functional."
+      "Eng": "The ship's storage system. It's not currently functional.",
+      "Rus": "Система хранения корабля. Сейчас не функционирует."
     }
   },
   {
@@ -162,7 +169,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This ship's storage system is malfunctioning."
+      "Eng": "This ship's storage system is malfunctioning.",
+      "Rus": "Хранилище этого корабля неисправно."
     }
   }
 ]
