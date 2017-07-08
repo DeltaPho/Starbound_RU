@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "An Avian storage hatch.",
-      "Rus": ""
+      "Rus": "Люк авианского хранилища."
     }
   },
   {
@@ -33,7 +33,7 @@
     },
     "Texts": {
       "Eng": "Avian storage locker.",
-      "Rus": ""
+      "Rus": "Авианский шкафчик."
     }
   },
   {
@@ -45,7 +45,7 @@
     },
     "Texts": {
       "Eng": "Storage.",
-      "Rus": ""
+      "Rus": "Хранилище."
     }
   }
 ]
