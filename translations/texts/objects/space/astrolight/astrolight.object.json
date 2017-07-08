@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A ceiling mounted utility lantern."
+      "Eng": "A ceiling mounted utility lantern.",
+      "Rus": "Практично установленный фонарь."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Astro Light"
+      "Eng": "Astro Light",
+      "Rus": "Астро лампа"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Sspace pod casssts just a little bit of light."
+      "Eng": "Sspace pod casssts just a little bit of light.",
+      "Rus": "Косссмическая капссула даёт немного сссвета."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This electric lamp burns brighter'n a campfire."
+      "Eng": "This electric lamp burns brighter'n a campfire.",
+      "Rus": "Эта лампочка поярче всякого костра горит."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This electric lamp casts a faint yellow light."
+      "Eng": "This electric lamp casts a faint yellow light.",
+      "Rus": "Эта электрическая лампа отбрасывает слабый жёлтый свет."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This lamp looks like it's air sealed, I imagine it would work well underwater."
+      "Eng": "This lamp looks like it's air sealed, I imagine it would work well underwater.",
+      "Rus": "Лампа, похоже, герметична, я представляю, как она будет работать под водой."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This lantern isn't flashy, but it's functional."
+      "Eng": "This lantern isn't flashy, but it's functional.",
+      "Rus": "Эта лампа тусклая, но работает."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This light source is self-sustaining somehow."
+      "Eng": "This light source is self-sustaining somehow.",
+      "Rus": "Этот источник света каким-то образом \nявляется самоподдерживающимся."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This pod light provides just enough light to get around."
+      "Eng": "This pod light provides just enough light to get around.",
+      "Rus": "Этот светильник излучает достаточно света, чтобы можно было пройти."
     }
   }
 ]
