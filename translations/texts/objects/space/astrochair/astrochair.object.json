@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A modern chair design, commonly found inside spaceships."
+      "Eng": "A modern chair design, commonly found inside spaceships.",
+      "Rus": "Современный дизайн кресла, как и в других кораблях."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Astro Chair"
+      "Eng": "Astro Chair",
+      "Rus": "Астро Кресло"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Firm metal seat lookss uncomfortable."
+      "Eng": "Firm metal seat lookss uncomfortable.",
+      "Rus": "Металличессский ссстул выглядит неудобно."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Maybe sitting in this would help keep my back straight."
+      "Eng": "Maybe sitting in this would help keep my back straight.",
+      "Rus": "Может, посидев тут, я смогу выпрямить свою спину."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This chair has a very familiar design, though no Avian would build with materials like these."
+      "Eng": "This chair has a very familiar design, though no Avian would build with materials like these.",
+      "Rus": "Этот стул выглядит очень знакомо, хотя Авиане не работают с такими материалами."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This chair is the kind you'd find in a spaceship."
+      "Eng": "This chair is the kind you'd find in a spaceship.",
+      "Rus": "Это кресло такое же, как и в космическом корабле."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This here chair is pretty solid, I can't even kick it over."
+      "Eng": "This here chair is pretty solid, I can't even kick it over.",
+      "Rus": "Этот стул очень твёрдый, я его даже пнуть не могу."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This seat is designed to support launch forces for space travellers."
+      "Eng": "This seat is designed to support launch forces for space travellers.",
+      "Rus": ""
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This sturdy chair is built to withstand launch forces."
+      "Eng": "This sturdy chair is built to withstand launch forces.",
+      "Rus": ""
     }
   }
 ]
