@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A space docking field, this energy contains the atmosphere inside."
+      "Eng": "A space docking field, this energy contains the atmosphere inside.",
+      "Rus": "Пространственное док-поле, эта энергия держит атмосферу внутри."
     }
   },
   {
@@ -24,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Docking fields like this are common in space, they make quite effective airlocks."
+      "Eng": "Docking fields like this are common in space, they make quite effective airlocks.",
+      "Rus": "Док-поля как это распространены по всему космосу, это довольно хорошие воздушные камеры."
     }
   },
   {
@@ -38,7 +40,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The energy in this docking field contains air and gravity inside."
+      "Eng": "The energy in this docking field contains air and gravity inside.",
+      "Rus": "Энергия этого док-поля удерживает воздух и гравитацию в корабле."
     }
   },
   {
@@ -52,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This crackling energy containsss air inside."
+      "Eng": "This crackling energy containsss air inside.",
+      "Rus": "Эта потрессскивающщая энергия держит воздух внутри."
     }
   },
   {
@@ -66,7 +70,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This energy field can contain both atmosphere and artificial gravity."
+      "Eng": "This energy field can contain both atmosphere and artificial gravity.",
+      "Rus": "Это энергетическое поле содержит и атмосферу и искусственную гравитацию."
     }
   },
   {
@@ -80,7 +85,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This field is a special energy type meant to contain atmosphere and artificial gravity."
+      "Eng": "This field is a special energy type meant to contain atmosphere and artificial gravity.",
+      "Rus": "Это поле представляет собой энергию, которая удерживает атмосферу и искусственную гравитацию."
     }
   },
   {
@@ -94,7 +100,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This here energy field keeps air and gravity inside and space outside."
+      "Eng": "This here energy field keeps air and gravity inside and space outside.",
+      "Rus": "Вот это вот поле не выпускает воздух и гравитацию в космос."
     }
   },
   {
@@ -108,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This type of energy field can contain atmosphere and gravity inside space structures."
+      "Eng": "This type of energy field can contain atmosphere and gravity inside space structures.",
+      "Rus": "Этот тип энергетического поля может удерживать воздух и гравитацию внутри космических структур."
     }
   }
 ]
