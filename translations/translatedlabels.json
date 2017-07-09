@@ -8147,7 +8147,7 @@
           "altar1.object.json": 9
         },
         "arcadegame": {
-          "arcadegameclosed.object.json": 0,
+          "arcadegameclosed.object.json": 1,
           "arcadegameobject.object.json": 2,
           "shared_arcadegame.json": 1
         },
