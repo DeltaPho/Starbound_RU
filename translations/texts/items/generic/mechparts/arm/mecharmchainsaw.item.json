@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An energized chainsaw originally developed for cutting through ice."
+      "Eng": "An energized chainsaw originally developed for cutting through ice.",
+      "Rus": "Пила под напряжением изначально разработанная для прорубания льда."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Neo Chainsaw Mech Arm"
+      "Eng": "Neo Chainsaw Mech Arm",
+      "Rus": "Ручная Нэо-пила "
     }
   }
 ]
