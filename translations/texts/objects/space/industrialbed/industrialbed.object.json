@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A cheap bed with a sturdy metal frame. It doesn't seem very comfortable."
+      "Eng": "A cheap bed with a sturdy metal frame. It doesn't seem very comfortable.",
+      "Rus": "Дешёвая кровать с прочным металлическим каркасом. Выглядит не очень удобно."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran might not ssssleep well in big metal bed."
+      "Eng": "Floran might not ssssleep well in big metal bed.",
+      "Rus": "Флоран не высссыпается на большшой металличессской кровати."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Industrial Bed"
+      "Eng": "Industrial Bed",
+      "Rus": "Промышленная кровать"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This bed appears to be able to withstand extremely turbulent movement."
+      "Eng": "This bed appears to be able to withstand extremely turbulent movement.",
+      "Rus": "Такие кровати, судя по всему, способны выдерживать движение в зонах экстремальной турбулентности."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This bed looks horribly uncomfortable, but I'm not judgemental so I could still sleep in it."
+      "Eng": "This bed looks horribly uncomfortable, but I'm not judgemental so I could still sleep in it.",
+      "Rus": "Эта кровать выглядит ужасно неудобно, но я критикую, так что я могу на ней спать."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This bed looks like it was designed with structural integrity in mind instead of comfort."
+      "Eng": "This bed looks like it was designed with structural integrity in mind instead of comfort.",
+      "Rus": "Это кровать выглядит так, будто её разрабатывали без малейшей мысли о комфорте."
     }
   },
   {
@@ -73,18 +79,22 @@
       ]
     },
     "Texts": {
-      "Eng": "This bed looks quite heavy..."
+      "Eng": "This bed looks quite heavy...",
+      "Rus": "Это кровать выглядит довольно твёрдо..."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Сея кровать выглядит жетсковато, хорошо, что я крепко сплю."
+    ],
     "Files": {
       "objects/space/industrialbed/industrialbed.object": [
         "/novakidDescription"
       ]
     },
     "Texts": {
-      "Eng": "This bed may look mighty stiff but luckily I'm an easy sleeper."
+      "Eng": "This bed may look mighty stiff but luckily I'm an easy sleeper.",
+      "Rus": "Сея кровать выглядит жетсковато, хорошо, что я по-богатырски сплю."
     }
   },
   {
@@ -95,7 +105,8 @@
       ]
     },
     "Texts": {
-      "Eng": "With a little extra padding this bed could actually be quite comfortable."
+      "Eng": "With a little extra padding this bed could actually be quite comfortable.",
+      "Rus": "С дополнительной набивкой эта кровать вполне может быть удобной."
     }
   }
 ]
