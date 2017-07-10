@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A display which appears to be connected to some sort of radar."
+      "Eng": "A display which appears to be connected to some sort of radar.",
+      "Rus": "Дисплей, который подключается к чему-то вроде радара."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Glasss isss flashing green. Good colour."
+      "Eng": "Glasss isss flashing green. Good colour.",
+      "Rus": "Ссстёклышко светитсссся зелёным. Хорошший цвет."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I wonder what the purpose of this display is?"
+      "Eng": "I wonder what the purpose of this display is?",
+      "Rus": "Интересно, какова цель данного диплея?"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I wonder where the information on this display is coming from."
+      "Eng": "I wonder where the information on this display is coming from.",
+      "Rus": "Интересно, откуда берётся информация на этом дисплее."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Industrial Display"
+      "Eng": "Industrial Display",
+      "Rus": "Промышленный дисплей"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The flashin' light on this here glass must mean somethin' t'someone."
+      "Eng": "The flashin' light on this here glass must mean somethin' t'someone.",
+      "Rus": "Мигающий свет на этой стекляхе должен чё-то значить."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The green radar on this screen is hypnotic..."
+      "Eng": "The green radar on this screen is hypnotic...",
+      "Rus": "Зелёный радар на экране гипнотизирует..."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This display shows some sort of radar. I wonder if it is important intel?"
+      "Eng": "This display shows some sort of radar. I wonder if it is important intel?",
+      "Rus": "Этот дисплей показывает какой-то радар. Интересно, информация на нём важна?"
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This looks like it might be important, but really I have no idea."
+      "Eng": "This looks like it might be important, but really I have no idea.",
+      "Rus": "Это выглядит так, будто это очень важно, но на самом деле я понятия не имею."
     }
   }
 ]
