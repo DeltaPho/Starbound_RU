@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "An unpleasant orange light. I wonder how long the bulb lasts?",
-      "Rus": ""
+      "Rus": "Неприятный оранжевый свет. Интересно, на долго этой лампы хватает?"
     }
   },
   {
@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "Floran wants to sssmash light, but Floran will be polite inssstead.",
-      "Rus": ""
+      "Rus": "Флоран хочет сссломать лампу, но он будет вежливым."
     }
   },
   {
@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "Industrial Light",
-      "Rus": ""
+      "Rus": "Промышленная лампа"
     }
   },
   {
@@ -56,11 +56,14 @@
     },
     "Texts": {
       "Eng": "The orange glow of this light reminds me of the ember corals commonly seen on ocean floors.",
-      "Rus": ""
+      "Rus": "Оранжевое свечение этой лампы напоминает мне красные угольные кораллы, которые можно увидеть на дне океана."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Лампочка сия не так ярка, как я!",
+      "Лампочка сия не так ярка, аки я!"
+    ],
     "Files": {
       "objects/space/industriallight/industriallight.object": [
         "/novakidDescription"
@@ -68,7 +71,7 @@
     },
     "Texts": {
       "Eng": "This light ain't quite as bright as I am!",
-      "Rus": ""
+      "Rus": "Лампочка сия не так ярка, як я!"
     }
   },
   {
@@ -80,7 +83,7 @@
     },
     "Texts": {
       "Eng": "This light gives off an orange glow, but it isn't warm like a sun.",
-      "Rus": ""
+      "Rus": "Эта лампа излучает оранжевый свет, но он не тёплый, как солнце."
     }
   },
   {
@@ -92,7 +95,7 @@
     },
     "Texts": {
       "Eng": "This light gives off an orange glow. It appears to be fairly cheaply produced.",
-      "Rus": ""
+      "Rus": "Эта лампа излучает оранжевое свечение. Кажется, это довольно дёшево."
     }
   },
   {
@@ -104,7 +107,7 @@
     },
     "Texts": {
       "Eng": "This light has been built to be able to power itself for a very long time.",
-      "Rus": ""
+      "Rus": "Эта лампа была спроектирована так, чтобы экономить энергию в течении очень долгого времени."
     }
   }
 ]
