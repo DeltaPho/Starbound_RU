@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A metal wall locker, for keeping things in."
+      "Eng": "A metal wall locker, for keeping things in.",
+      "Rus": "Металлический настенный шкафчик для хранения вещей."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A somewhat crudely made locker for storing things."
+      "Eng": "A somewhat crudely made locker for storing things.",
+      "Rus": "Несколько грубо сколоченный шкафчик для хранения вещей."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A wall locker, to keep stuff in."
+      "Eng": "A wall locker, to keep stuff in.",
+      "Rus": "Настенный шкафчик, чтобы вещи хранить."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A wall mounted locker, complete with hazard stripes and a red light."
+      "Eng": "A wall mounted locker, complete with hazard stripes and a red light.",
+      "Rus": "Настенный шкафчик, в комплекте с полосами предупреждения и красными лампочками."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran could keep trophiesss in here."
+      "Eng": "Floran could keep trophiesss in here.",
+      "Rus": "Флоран может хранить здесссь трофеи."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I reckon I could stuff some belongings in here, if I wanted."
+      "Eng": "I reckon I could stuff some belongings in here, if I wanted.",
+      "Rus": "Кажись, можно сюда чё-нибудь сложить, коли приспичит."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I wonder why there are hazard stripes on this locker?"
+      "Eng": "I wonder why there are hazard stripes on this locker?",
+      "Rus": "Интересно, почему на этом шкафчике линии предупреждения?"
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Industrial Storage Locker"
+      "Eng": "Industrial Storage Locker",
+      "Rus": "Промышленный шкафчик"
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This looks like a secure container for valuable goods."
+      "Eng": "This looks like a secure container for valuable goods.",
+      "Rus": "Это выглядит, как защищённый контейнер для ценного груза."
     }
   }
 ]
