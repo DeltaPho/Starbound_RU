@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A legendary testament to early space travel."
+      "Eng": "A legendary testament to early space travel.",
+      "Rus": "Легендарный завет ранних космических путешествий."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A reminder that every journey begins with one small step..."
+      "Eng": "A reminder that every journey begins with one small step...",
+      "Rus": "Напоминание о том, что каждое путешествие начинается с одного маленького шага..."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Beings once trusted these primitive capsules in space."
+      "Eng": "Beings once trusted these primitive capsules in space.",
+      "Rus": "Люди когда-то доверяли этим примитивным коробочкам в космосе."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Gazing at this can serve as a reminder of how far we've come in space exploration."
+      "Eng": "Gazing at this can serve as a reminder of how far we've come in space exploration.",
+      "Rus": "Это служит напоминанием о том, насколько далеко мы продвинулись в освоении космоса."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I think this may be a replica, landers like this haven't been used in a long time."
+      "Eng": "I think this may be a replica, landers like this haven't been used in a long time.",
+      "Rus": "Я думаю, это копия, посадочные модули, как этот, не использовались уже долгое время."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I've seen outhouses with more room inside than this ol' lander."
+      "Eng": "I've seen outhouses with more room inside than this ol' lander.",
+      "Rus": "Я сараи и побольше видал."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Lunar Lander"
+      "Eng": "Lunar Lander",
+      "Rus": "Лунный посадочный модуль"
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "They don't make them like they used to."
+      "Eng": "They don't make them like they used to.",
+      "Rus": "Они не делают их так, как раньше."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thisss lander is no bigger than a hut."
+      "Eng": "Thisss lander is no bigger than a hut.",
+      "Rus": ""
     }
   }
 ]
