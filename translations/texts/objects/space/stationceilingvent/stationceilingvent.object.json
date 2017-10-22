@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A big ol' metal ceilin' vent."
+      "Eng": "A big ol' metal ceilin' vent.",
+      "Rus": "Большущая старая вентиляционная дыра."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A vent typically used for keeping the air clean aboard space stations."
+      "Eng": "A vent typically used for keeping the air clean aboard space stations.",
+      "Rus": "Вентиляционное отверстие, обычно используемое для поддержания чистоты воздуха на борту космических станций."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A vent. It is beneficial to maintain air cleanliness."
+      "Eng": "A vent. It is beneficial to maintain air cleanliness.",
+      "Rus": "Вентиляция. Полезно поддерживать чистоту воздуха."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An ugly device to keep air clean from pollution. At least it is for a noble cause."
+      "Eng": "An ugly device to keep air clean from pollution. At least it is for a noble cause.",
+      "Rus": "Уродливое устройство для очистки воздуха от загрязнения. По крайней мере, дело благородное."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I suppose this is used to help clean the air."
+      "Eng": "I suppose this is used to help clean the air.",
+      "Rus": "Полагаю, это используется для очистки воздуха."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I wonder if Glitch lungs work similar to this vent."
+      "Eng": "I wonder if Glitch lungs work similar to this vent.",
+      "Rus": "Работа лёгких глитчей схожа с этой вентиляцией."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "It's the end of a vent. I'm not sure I could fit inside."
+      "Eng": "It's the end of a vent. I'm not sure I could fit inside.",
+      "Rus": "Это вентиляционное отверстие. Мне кажется, я не помещусь внутри."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Station Ceiling Vent"
+      "Eng": "Station Ceiling Vent",
+      "Rus": "Станционная вентиляция"
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Vent too sssmall for Floran to hide in."
+      "Eng": "Vent too sssmall for Floran to hide in.",
+      "Rus": ""
     }
   }
 ]
