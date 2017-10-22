@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A metal bar with with a smoothly polished surface."
+      "Eng": "A metal bar with with a smoothly polished surface.",
+      "Rus": "Металлический бар с гладкой полированной площадью."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Looks t'me like a fine place to pull up a stool and rest a spell."
+      "Eng": "Looks t'me like a fine place to pull up a stool and rest a spell.",
+      "Rus": "Кажись, неплохое место, чтобы разложить стульчик и отдохнуть чутка."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Most Glitch prefer a large table over a bar for drinking and celebration."
+      "Eng": "Most Glitch prefer a large table over a bar for drinking and celebration.",
+      "Rus": "Большинство глитчей предпочитают большой стол в баре, для выпивки и празднования."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nothing like sitting beside some new faces at a bar to make friends."
+      "Eng": "Nothing like sitting beside some new faces at a bar to make friends.",
+      "Rus": "Нет ничего лучше, чем подружиться с кем-нибудь в баре."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Space Bar"
+      "Eng": "Space Bar",
+      "Rus": "Космический бар"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This bar doesn't serve much purpose except a place to waste time."
+      "Eng": "This bar doesn't serve much purpose except a place to waste time.",
+      "Rus": "Этот бар не более, чем место для пустой траты времени."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This bar is cold and industrial, but at least the stools seem comfortable."
+      "Eng": "This bar is cold and industrial, but at least the stools seem comfortable.",
+      "Rus": "Этот бар холодный и индустриальный, но стулья кажутся удобными."
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This bar is nice, but not much use without someone to tend it."
+      "Eng": "This bar is nice, but not much use without someone to tend it.",
+      "Rus": "Этот бар неплохой, но бесполезный без посетителей."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thisss bar may be a good place for Floran to start fights..."
+      "Eng": "Thisss bar may be a good place for Floran to start fights...",
+      "Rus": "Этот бар может послужить неплохим местом для того, чтобы флоран начал драку..."
     }
   }
 ]
