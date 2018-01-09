@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A chair decorated with bands of colour that fit well together."
+      "Eng": "A chair decorated with bands of colour that fit well together.",
+      "Rus": "Кресло украшено цветными полосками, которые хорошо сочетаются друг с другом."
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A curved, formal looking metal chair."
+      "Eng": "A curved, formal looking metal chair.",
+      "Rus": "Изогнутое, формально выглядящее металлическое кресло."
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A shiny silver chair."
+      "Eng": "A shiny silver chair.",
+      "Rus": "Блестящий серебряный стул."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A simple chair, made entirely out of metallic alloys."
+      "Eng": "A simple chair, made entirely out of metallic alloys.",
+      "Rus": "Просто стул, полностью сделанный из металлических сплавов."
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran hasss no time for sssitting."
+      "Eng": "Floran hasss no time for sssitting.",
+      "Rus": "У флорана нет времени сссидеть."
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I've seen a lot of chairs in my time, but this... Isn't my favourite."
+      "Eng": "I've seen a lot of chairs in my time, but this... Isn't my favourite.",
+      "Rus": "В своё время мне встречалось много кресел, но это... Не моё любимое."
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Station Chair"
+      "Eng": "Station Chair",
+      "Rus": "Станционное кресло"
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This chair appears to be significantly stronger than the majority of chairs in the universe."
+      "Eng": "This chair appears to be significantly stronger than the majority of chairs in the universe.",
+      "Rus": "Это кресло выглядит значительно прочнее, чем остальные кресла во Вселенной."
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Yessir, that's a chair alright."
+      "Eng": "Yessir, that's a chair alright.",
+      "Rus": "М-да, сей стул неплох."
     }
   }
 ]
